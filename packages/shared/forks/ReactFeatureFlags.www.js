@@ -71,6 +71,7 @@ export const enableSelectiveHydration = true;
 
 export const enableLazyElements = true;
 export const enableCache = true;
+export const enableCacheElement = true;
 
 export const disableJavaScriptURLs = true;
 
