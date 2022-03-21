@@ -96,7 +96,11 @@ export const enableLegacyFBSupport = false;
 // -----------------------------------------------------------------------------
 
 export const enableCache = __EXPERIMENTAL__;
+<<<<<<< HEAD
 export const enableCacheElement = true;
+=======
+export const enableCacheElement = __EXPERIMENTAL__;
+>>>>>>> 1b948ff7ab25948ec9b9d6d0a4dd7f4046a75e9b
 
 export const enableTransitionTracing = false;
 
